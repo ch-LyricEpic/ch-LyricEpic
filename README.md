@@ -1,7 +1,7 @@
 # Hi There👋, I'm Lyric!
 
 📕 Senior High school student, currently studying in Hangzhou No.2 HS.   
-😀 MBTI Unknown.(= I forgot.)  
+😀 MBTI **ENTP-T**.  
 🎹 Piano Performance level. Composer, Improvisation performer.   
 MUG/Chess/Photograph lovers. `[Phigros]rks16.30/CM Gold48(2024/7/28) [Arcaea]Potential 12.14(2024/7/28) [Orzmic]Rating=Max(2023/02/27) [Rizline/Phira/Dynamix/Paradigm:Reboot/ALLTALE/Malody] `  
 C++/Python/HTML. Robotics lovers, VEX_VRC Team@7925 Member, HSYLC 2024 Student.  
