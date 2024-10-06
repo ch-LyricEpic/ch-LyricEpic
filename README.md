@@ -1,6 +1,6 @@
 # Hi There👋, I'm Lyric!
 
-🔈 Simplified Chinese / English.
+🔈 Simplified Chinese / English.  
 📕 Senior High school student, currently studying in Hangzhou No.2 HS.   
 😀 MBTI ENTP-T.  
 🎹 Piano Performance level. Composer, Improvisation performer. HSYLC 2024 Student/SA. Former VEXer.    
