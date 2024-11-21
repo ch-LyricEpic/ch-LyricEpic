@@ -5,7 +5,7 @@
 😀 MBTI ENTP-T.  
 🎹 Piano Performance level. Composer, Improvisation performer. HSYLC 2024 Student/SA. Former VEXer.    
 [ORGANIZATION] MRT Labs / H.I.I Robotics @7925 Member / MUG @MBH Member#004.  
-[CODE] C++ / Python / HTML. 
+[CODE] Python / CPP / HTML / JavaScript. 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ch-LyricEpic&hide=javascript,html,css&bg_color=1E1E2E&text_color=D9E0EE&icon_color=DDB6F2&title_color=C9CBFF)](https://github.com/anuraghazra/github-readme-stats)
 
