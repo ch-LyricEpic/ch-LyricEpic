@@ -1,5 +1,7 @@
 # Hi There👋, I'm Lyric!
 
+~~Sorry for Long Time No Code & Long Time No CONTRIBUTION~~
+
 🔈 Simplified Chinese(Native) / English.   
 📕 Senior High school student, currently studying in Hangzhou No.2 HS.     
 😀 MBTI ENTP-T.     
